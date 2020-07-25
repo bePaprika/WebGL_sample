@@ -1,1 +1,2 @@
-# WebGL_sample
+Unityから出力したWebGLを動かすデモをする予定
+WebGL出力がなぜかうまくいかないので少々お待ちください。
